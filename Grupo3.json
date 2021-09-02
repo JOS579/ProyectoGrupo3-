@@ -1,0 +1,14 @@
+{
+    "listaDeHabitacioG3": [],
+    "listaDeUsuarioG3": [
+        {
+            "usuario": "jj",
+            "contra": "12",
+            "nombre": "j",
+            "apellido": "c",
+            "edad": 45,
+            "numeroTelefono": "3554",
+            "Ci": "456"
+        }
+    ]
+}
